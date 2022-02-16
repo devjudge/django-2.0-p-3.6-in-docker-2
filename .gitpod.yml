@@ -16,3 +16,5 @@ ports:
 vscode:
   extensions:
     - ms-python.python
+image:
+  file: .gitpod.Dockerfile
